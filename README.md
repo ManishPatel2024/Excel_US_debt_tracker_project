@@ -12,7 +12,7 @@ An interactive US Debt Tracker built in Excel, showcasing the intersection of da
 * The lowest month average is April which could be attributed to IRS Tax Refunds which take place during this time.  
 
 
-![US Debt Tracker project](images/US DEBT TRACKER Screenshot.png)
+![US Debt Tracker project](images/US_DEBT_TRACKER_Screenshot.png)
 
 
 ### 📁 Project Questions:
